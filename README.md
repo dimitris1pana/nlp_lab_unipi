@@ -1,10 +1,10 @@
 # 🧠 Natural Language Processing (NLP) -  Course Repository
 
- Official GitHub repository for the **Introduction to Natural Language Processing** course taught during the Spring Semester at the **Department Of Informatics - University of Piraeus,Greece**. This course offers a **hands-on and theoretical dive into modern NLP techniques, tools, and applications — from foundational linguistics to deep learning and large language models**.
+ Official GitHub repository for the **Introduction to Natural Language Processing** course taught during the Spring Semester at the **Department Of Informatics - University of Piraeus,Greece**. This course offers a hands-on and theoretical dive into modern NLP techniques, tools, and applications — **from foundational linguistics to deep learning and large language models**.
 
 ## 📚 Course Overview
 
-This course covers a broad spectrum of NLP, starting from classical formalisms (e.g., Chomsky grammars and parsing) to cutting-edge models like BERT, T5, and GPT. Throughout, we balance theoretical concepts with real-world implementation in python.
+This course covers a broad spectrum of NLP, starting from classical formalisms (e.g., Chomsky grammars and parsing) to cutting-edge models like BERT, T5, and GPT. Throughout, we balance theoretical concepts with python implementations.
 
 ---
 
