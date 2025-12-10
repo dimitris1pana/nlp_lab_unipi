@@ -1,2 +1,11 @@
 lab1/.env
 .DS_Store
+_pycache__/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+env/
+venv/
+env.bak/
+venv.bak/
