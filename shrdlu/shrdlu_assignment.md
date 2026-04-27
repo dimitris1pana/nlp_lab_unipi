@@ -39,6 +39,9 @@ By completing this assignment, you should be able to:
 - evaluate robustness, ambiguity handling, and generalization
 - justify architectural design choices with experiments
 
+-----
+-----
+
 ## Task Summary
 
 Build an interactive grounded language system that can:
@@ -82,6 +85,8 @@ Examples of valid extensions include:
 - learned parsing and transformer-based interpretation on top of the existing system
 
 This option is more constrained, but it gives you a clearer implementation starting point.
+----
+---
 
 ## Required Progression
 
@@ -400,3 +405,5 @@ Start by reusing the basic world, parser, and execution logic from the SHRDLU no
 - pretrained transformer-based components in Stage 3
 
 This separation will make your system easier to evaluate and extend.
+
+Teams of up to 2 students are allowed. If you work in a team, please clearly indicate the contributions of each member in the report.
